@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Advan\\Videos\\Algoritma\\C#\\GudangWebApp\\GudangWebApp.csproj": {}
+    "C:\\Users\\Advan\\Videos\\Algoritma\\C#\\praktikum_algo\\GudangWebApp\\GudangWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Advan\\Videos\\Algoritma\\C#\\GudangWebApp\\GudangWebApp.csproj": {
+    "C:\\Users\\Advan\\Videos\\Algoritma\\C#\\praktikum_algo\\GudangWebApp\\GudangWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Advan\\Videos\\Algoritma\\C#\\GudangWebApp\\GudangWebApp.csproj",
+        "projectUniqueName": "C:\\Users\\Advan\\Videos\\Algoritma\\C#\\praktikum_algo\\GudangWebApp\\GudangWebApp.csproj",
         "projectName": "GudangWebApp",
-        "projectPath": "C:\\Users\\Advan\\Videos\\Algoritma\\C#\\GudangWebApp\\GudangWebApp.csproj",
+        "projectPath": "C:\\Users\\Advan\\Videos\\Algoritma\\C#\\praktikum_algo\\GudangWebApp\\GudangWebApp.csproj",
         "packagesPath": "C:\\Users\\Advan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Advan\\Videos\\Algoritma\\C#\\GudangWebApp\\obj\\",
+        "outputPath": "C:\\Users\\Advan\\Videos\\Algoritma\\C#\\praktikum_algo\\GudangWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Advan\\AppData\\Roaming\\NuGet\\NuGet.Config"

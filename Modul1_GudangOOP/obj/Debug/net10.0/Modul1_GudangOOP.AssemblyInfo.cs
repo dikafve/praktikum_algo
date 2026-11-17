@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Modul1_GudangOOP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1bd1d124f9043a9725b38263d2d4c4658f670512")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff05a445362116c4506897f2ee2e49a4f60a8227")]
 [assembly: System.Reflection.AssemblyProductAttribute("Modul1_GudangOOP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Modul1_GudangOOP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

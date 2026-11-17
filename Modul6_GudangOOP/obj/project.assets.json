@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Advan\\Videos\\Algoritma\\C#\\Modul6_GudangOOP\\Modul6_GudangOOP.csproj",
+      "projectUniqueName": "C:\\Users\\Advan\\Videos\\Algoritma\\C#\\praktikum_algo\\Modul6_GudangOOP\\Modul6_GudangOOP.csproj",
       "projectName": "Modul6_GudangOOP",
-      "projectPath": "C:\\Users\\Advan\\Videos\\Algoritma\\C#\\Modul6_GudangOOP\\Modul6_GudangOOP.csproj",
+      "projectPath": "C:\\Users\\Advan\\Videos\\Algoritma\\C#\\praktikum_algo\\Modul6_GudangOOP\\Modul6_GudangOOP.csproj",
       "packagesPath": "C:\\Users\\Advan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Advan\\Videos\\Algoritma\\C#\\Modul6_GudangOOP\\obj\\",
+      "outputPath": "C:\\Users\\Advan\\Videos\\Algoritma\\C#\\praktikum_algo\\Modul6_GudangOOP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Advan\\AppData\\Roaming\\NuGet\\NuGet.Config"

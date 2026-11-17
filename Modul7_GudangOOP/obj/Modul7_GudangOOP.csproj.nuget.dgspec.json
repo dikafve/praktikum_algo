@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Advan\\Videos\\Algoritma\\C#\\Modul7_GudangOOP\\Modul7_GudangOOP.csproj": {}
+    "C:\\Users\\Advan\\Videos\\Algoritma\\C#\\praktikum_algo\\Modul7_GudangOOP\\Modul7_GudangOOP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Advan\\Videos\\Algoritma\\C#\\Modul7_GudangOOP\\Modul7_GudangOOP.csproj": {
+    "C:\\Users\\Advan\\Videos\\Algoritma\\C#\\praktikum_algo\\Modul7_GudangOOP\\Modul7_GudangOOP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Advan\\Videos\\Algoritma\\C#\\Modul7_GudangOOP\\Modul7_GudangOOP.csproj",
+        "projectUniqueName": "C:\\Users\\Advan\\Videos\\Algoritma\\C#\\praktikum_algo\\Modul7_GudangOOP\\Modul7_GudangOOP.csproj",
         "projectName": "Modul7_GudangOOP",
-        "projectPath": "C:\\Users\\Advan\\Videos\\Algoritma\\C#\\Modul7_GudangOOP\\Modul7_GudangOOP.csproj",
+        "projectPath": "C:\\Users\\Advan\\Videos\\Algoritma\\C#\\praktikum_algo\\Modul7_GudangOOP\\Modul7_GudangOOP.csproj",
         "packagesPath": "C:\\Users\\Advan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Advan\\Videos\\Algoritma\\C#\\Modul7_GudangOOP\\obj\\",
+        "outputPath": "C:\\Users\\Advan\\Videos\\Algoritma\\C#\\praktikum_algo\\Modul7_GudangOOP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Advan\\AppData\\Roaming\\NuGet\\NuGet.Config"
