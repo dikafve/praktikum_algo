@@ -1,0 +1,51 @@
+# ============================================================
+# .gitignore untuk proyek C# / ASP.NET Core
+# ============================================================
+
+# Build output
+bin/
+obj/
+
+# User-specific Visual Studio files
+*.user
+*.suo
+.vs/
+
+# Rider
+.idea/
+
+# VS Code (optional — hapus baris ini kalau mau share settings tim)
+.vscode/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+
+# SQLite database (data lokal, jangan di-push)
+*.db
+*.db-shm
+*.db-wal
+
+# Log files
+*.log
+logs/
+
+# ASP.NET Core Data Protection keys
+DataProtection-Keys/
+
+# Publish output
+publish/
+**/publish/
+
+# Environment & secrets (JANGAN PERNAH PUSH INI)
+appsettings.Production.json
+*.pfx
+*.pem
+secrets.json
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
