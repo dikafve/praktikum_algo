@@ -1,0 +1,4 @@
+B001|Laptop|30
+B002|Smartphone|60
+B003|Smartwatch|47
+B004|Tablet|20

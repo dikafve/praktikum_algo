@@ -1,0 +1,14 @@
+/Users/zakky/Documents/Zakky/Coding/Kuliah/pemogramanII/Modul4_GudangOOP/obj/Debug/net10.0/Modul4_GudangOOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zakky/Documents/Zakky/Coding/Kuliah/pemogramanII/Modul4_GudangOOP/obj/Debug/net10.0/Modul4_GudangOOP.AssemblyInfoInputs.cache
+/Users/zakky/Documents/Zakky/Coding/Kuliah/pemogramanII/Modul4_GudangOOP/obj/Debug/net10.0/Modul4_GudangOOP.AssemblyInfo.cs
+/Users/zakky/Documents/Zakky/Coding/Kuliah/pemogramanII/Modul4_GudangOOP/obj/Debug/net10.0/Modul4_GudangOOP.csproj.CoreCompileInputs.cache
+/Users/zakky/Documents/Zakky/Coding/Kuliah/pemogramanII/Modul4_GudangOOP/bin/Debug/net10.0/Modul4_GudangOOP
+/Users/zakky/Documents/Zakky/Coding/Kuliah/pemogramanII/Modul4_GudangOOP/bin/Debug/net10.0/Modul4_GudangOOP.deps.json
+/Users/zakky/Documents/Zakky/Coding/Kuliah/pemogramanII/Modul4_GudangOOP/bin/Debug/net10.0/Modul4_GudangOOP.runtimeconfig.json
+/Users/zakky/Documents/Zakky/Coding/Kuliah/pemogramanII/Modul4_GudangOOP/bin/Debug/net10.0/Modul4_GudangOOP.dll
+/Users/zakky/Documents/Zakky/Coding/Kuliah/pemogramanII/Modul4_GudangOOP/bin/Debug/net10.0/Modul4_GudangOOP.pdb
+/Users/zakky/Documents/Zakky/Coding/Kuliah/pemogramanII/Modul4_GudangOOP/obj/Debug/net10.0/Modul4_GudangOOP.dll
+/Users/zakky/Documents/Zakky/Coding/Kuliah/pemogramanII/Modul4_GudangOOP/obj/Debug/net10.0/refint/Modul4_GudangOOP.dll
+/Users/zakky/Documents/Zakky/Coding/Kuliah/pemogramanII/Modul4_GudangOOP/obj/Debug/net10.0/Modul4_GudangOOP.pdb
+/Users/zakky/Documents/Zakky/Coding/Kuliah/pemogramanII/Modul4_GudangOOP/obj/Debug/net10.0/Modul4_GudangOOP.genruntimeconfig.cache
+/Users/zakky/Documents/Zakky/Coding/Kuliah/pemogramanII/Modul4_GudangOOP/obj/Debug/net10.0/ref/Modul4_GudangOOP.dll

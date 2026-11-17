@@ -1,0 +1,15 @@
+C:\Users\Advan\Videos\Algoritma\C#\Modul2_Gudang OOP\bin\Debug\net10.0\Modul2_GudangOOP.exe
+C:\Users\Advan\Videos\Algoritma\C#\Modul2_Gudang OOP\bin\Debug\net10.0\Modul2_GudangOOP.deps.json
+C:\Users\Advan\Videos\Algoritma\C#\Modul2_Gudang OOP\bin\Debug\net10.0\Modul2_GudangOOP.runtimeconfig.json
+C:\Users\Advan\Videos\Algoritma\C#\Modul2_Gudang OOP\bin\Debug\net10.0\Modul2_GudangOOP.dll
+C:\Users\Advan\Videos\Algoritma\C#\Modul2_Gudang OOP\bin\Debug\net10.0\Modul2_GudangOOP.pdb
+C:\Users\Advan\Videos\Algoritma\C#\Modul2_Gudang OOP\obj\Debug\net10.0\Modul2_GudangOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Advan\Videos\Algoritma\C#\Modul2_Gudang OOP\obj\Debug\net10.0\Modul2_GudangOOP.AssemblyInfoInputs.cache
+C:\Users\Advan\Videos\Algoritma\C#\Modul2_Gudang OOP\obj\Debug\net10.0\Modul2_GudangOOP.AssemblyInfo.cs
+C:\Users\Advan\Videos\Algoritma\C#\Modul2_Gudang OOP\obj\Debug\net10.0\Modul2_GudangOOP.csproj.CoreCompileInputs.cache
+C:\Users\Advan\Videos\Algoritma\C#\Modul2_Gudang OOP\obj\Debug\net10.0\Modul2_GudangOOP.sourcelink.json
+C:\Users\Advan\Videos\Algoritma\C#\Modul2_Gudang OOP\obj\Debug\net10.0\Modul2_GudangOOP.dll
+C:\Users\Advan\Videos\Algoritma\C#\Modul2_Gudang OOP\obj\Debug\net10.0\refint\Modul2_GudangOOP.dll
+C:\Users\Advan\Videos\Algoritma\C#\Modul2_Gudang OOP\obj\Debug\net10.0\Modul2_GudangOOP.pdb
+C:\Users\Advan\Videos\Algoritma\C#\Modul2_Gudang OOP\obj\Debug\net10.0\Modul2_GudangOOP.genruntimeconfig.cache
+C:\Users\Advan\Videos\Algoritma\C#\Modul2_Gudang OOP\obj\Debug\net10.0\ref\Modul2_GudangOOP.dll
